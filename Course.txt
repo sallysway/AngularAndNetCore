@@ -1,1 +1,0 @@
-Application for the Udemy Course on Angular with .NET Course
